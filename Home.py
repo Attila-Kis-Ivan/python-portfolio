@@ -10,7 +10,7 @@ with col1:
     
 with col2:
     st.header("Attila Kis-Ivan")
-    content ="""
+    content = """
     Hi everyone, I'm Attila Kis-Ivan a self-taught web developer with degree of MSc Engineering Management from London UK. I fell in love with programming in 2020. Currently I'm developing products with React andReact-Native. I'm interested in AI so Python and PyTorch are on the way 😊.
     """
     st.info(content)
