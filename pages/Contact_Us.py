@@ -16,4 +16,4 @@ From: {user_email}
 
     if button:
         send_email(message)
-        st.info("Your emial was sent successfully")
+        st.info("Your email was sent successfully")
